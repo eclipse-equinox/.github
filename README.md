@@ -15,4 +15,4 @@ More generally, the goal of the Equinox project is to be a first class OSGi comm
 
 As part of the Eclipse project, the Equinox OSGi code is managed by the Eclipse PMC.  Equinox, as the base for all of Eclipse, ships with all the major releases. The various other bundles developed here may ship independently and on different schedules.
 
-For more details about Eclipse Equinox project, see also https://projects.eclipse.org/projects/eclipse.equinox
+For more details about Eclipse Equinox project, see also <https://projects.eclipse.org/projects/eclipse.equinox>.

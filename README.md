@@ -8,7 +8,7 @@ From a code point of view, Eclipse Equinox™ is an implementation of the OSGi c
 
 More generally, the goal of the Equinox project is to be a first class OSGi community and foster the vision of Eclipse as a landscape of bundles. As part of this, it is responsible for developing and delivering the OSGi framework implementation used for all of Eclipse. In addition. the project is open to:
 
-- Implementation of all aspects of the OSGi specification (including the CPEG and EEG)
+- Implementation of all aspects of the OSGi specification
 - Investigation and research related to future versions of OSGi specifications and related runtime issues
 - Development of non-standard infrastructure deemed to be essential to the running and management of OSGi-based systems
 - Implementation of key framework services and extensions needed for running Eclipse (e.g., the Eclipse Adaptor, Extension registry) and deemed generally useful to people using OSGi.

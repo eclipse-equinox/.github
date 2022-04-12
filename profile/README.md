@@ -11,4 +11,14 @@ More generally, the goal of the Equinox project is to be a first class OSGi comm
 
 As part of the Eclipse project, the Equinox OSGi code is managed by the Eclipse PMC.  Equinox, as the base for all of Eclipse, ships with all the major releases. The various other bundles developed here may ship independently and on different schedules.
 
-For more details about Eclipse Equinox project, see also <https://projects.eclipse.org/projects/eclipse.equinox>.
+For more details about the Eclipse Equinox project, see also <https://projects.eclipse.org/projects/eclipse.equinox>.
+
+## Reporting issues
+
+The Eclipse Equinox project is split into multiple Git repositories, which are all part of this organization. If you face an issue and have a sense of which particular GitHub repository is most related, please open your issue against that repository. If you're unsure, you can open an issue against this current repositoriy and the issue will then be moved as appropriate by the maintainers.
+
+## Contributing
+
+[Contributions are always welcome!](https://github.com/eclipse-equinox/.github/blob/main/CONTRIBUTING.md)
+
+Please bear in mind that this project is almost entirely developed by volunteers. If you do not provide the implementation yourself (or sponsor someone to do it for you), the bug might never get fixed. If it is a serious bug, other people than you might care enough to provide a fix.

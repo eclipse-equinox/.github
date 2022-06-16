@@ -1,4 +1,5 @@
 # Eclipse Equinox
+[![Build Equinox](https://github.com/eclipse-equinox/equinox/actions/workflows/build.yml/badge.svg)](https://github.com/eclipse-equinox/equinox/actions/workflows/build.yml)
 
 From a code point of view, Eclipse Equinox™ is an implementation of the OSGi core framework specification, a set of bundles that implement various optional OSGi services and other infrastructure for running OSGi-based systems.
 

@@ -2,6 +2,18 @@
 
 Thanks for your interest in this project.
 
+In all your interactions please keep in mind that Eclipse is a fully open and community driven project where everybody can participate. Many contributors are volunteers that contribute in their free time or address the issues that are relevant for them. Just because this issue has not yet been addressed doesn't mean we don't appreciate your report.
+
+Possible ways how to resolve this issue are:
+- Provide a pull-request to fix this issue by yourself.
+Quality contributions are always very welcome! See the contribution guidelines in this repositories or organization. If you have further question don't hesitate to ask.
+- Convince us project committers (or somebody else) that this is a urgent issue that affects all users in general.
+But because this issue is inactive for some time the chances that this is urgent is usually not very high.
+- Wait until all of a sudden somebody else finds this issue interesting and solves it.
+But it is possible that you have to wait for quite some time, if not forever.
+- Hire a professional to solve this issue for you.
+There are freelancers who offer commercial services to enhance Eclipse for you. If you are interested please ask and we can get you in touch.
+
 ### Setting up GitHub account
 
 Create an account at github.com using the same email id used for [Eclipse Community account](https://accounts.eclipse.org/user). If you don't have an Eclipse Community account, please create one.

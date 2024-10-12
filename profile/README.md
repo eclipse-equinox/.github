@@ -23,3 +23,11 @@ The Eclipse Equinox project is split into multiple Git repositories, which are a
 [Contributions are always welcome!](https://github.com/eclipse-equinox/.github/blob/main/CONTRIBUTING.md)
 
 Please bear in mind that this project is almost entirely developed by volunteers. If you do not provide the implementation yourself (or sponsor someone to do it for you), the bug might never get fixed. If it is a serious bug, other people than you might care enough to provide a fix.
+
+[![Create Eclipse Development Environment for Equinox](https://download.eclipse.org/oomph/www/setups/svg/Equinox.svg)](
+https://www.eclipse.org/setups/installer/?url=https://raw.githubusercontent.com/eclipse-equinox/equinox/master/releng/org.eclipse.equinox.releng/EquinoxConfiguration.setup&show=true
+"Click to open Eclipse-Installer Auto Launch or drag into your running installer")
+
+[![Create Eclipse Development Environment for Equinox P2](https://download.eclipse.org/oomph/www/setups/svg/P2.svg)](
+https://www.eclipse.org/setups/installer/?url=https://raw.githubusercontent.com/eclipse-equinox/p2/master/releng/org.eclipse.equinox.p2.setup/EquinoxP2Configuration.setup&show=true
+"Click to open Eclipse-Installer Auto Launch or drag into your running installer")
